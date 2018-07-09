@@ -1,0 +1,29 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+
+h1{
+  font-size: 3em;
+  color: blue
+}
+
+input{
+  color: blue;
+  width: 30%;
+  height: 30px;
+}
+
+label{
+  font-size: 2em;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+label:hover{
+  font-size: 2.2em;
+  background-color: green;
+  color: white;
+  height: 50px;
+
+}
